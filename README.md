@@ -14,9 +14,9 @@ The purpose of this analysis is to provide an overview on the election results b
   *   Arapahoe:   24,801 ( 6.7%)
 * Denver had the largest number of votes with 306,055
 * Breakdown of candidate votes:
-  *   Diana DeGette:          272,892 (73.8%)
-  *   Charles Casper Stockham: 85,213 (23.0%) 
-  *   Raymon Anthony Doane:    11,606  (3.1%)
+  *   Diana DeGette:           272,892 (73.8%)
+  *   Charles Casper Stockham:  85,213 (23.0%) 
+  *   Raymon Anthony Doane:     11,606  (3.1%)
 * Diana DeGette was declared the winner of the election with 272,892 votes 73.8%. 
 
 ## Election Audit Summary
