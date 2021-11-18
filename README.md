@@ -1,7 +1,7 @@
 # Election-Analysis
 
 ## Overview
-The purpose of this analysis is to provide an overview on the election results between the three candidates: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane as well as the total voter turnout by county. 
+The purpose of this analysis is to provide an overview on the election results between the three candidates: Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane as well as the total voter turnout by county. The analysis shows the total number of votes that each candidate received as well as the percentage of votes received. Each county that particiapated in the election is listed along with the total number of votes that were cast in that county. Votes totals are also shown as a percentage, as part of this analaysis.
 
 ## Election-Audit Results
 ![This is an image](https://github.com/NickLegacy/Election-Analysis/blob/main/Mod%203%20-%20Deliverable%201%20-%20pic.PNG)
